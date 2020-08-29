@@ -2,3 +2,5 @@ Test Git Quick Start Demo
 adding changes to commit 
 adding changes to commit adding changes to commit adding changes to commit 
 vadding changes to commit 
+
+adding changes so that I can pull them locally on my computer
